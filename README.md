@@ -1,6 +1,9 @@
 # CPSC471-Project
 Project for the Database Management System course.
 
+# Collaborators
+Suji Chen
+
 # Setup the Project (For Development)
 
 1. [Download XAMPP for your OS](https://www.apachefriends.org/), this will install PHP and MySQL onto your system.
