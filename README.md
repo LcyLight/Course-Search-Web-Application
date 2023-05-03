@@ -2,7 +2,7 @@
 Project for the Database Management System course.
 
 # Collaborators
-Suji Chen
+Jason Chen - csj9703
 
 # Setup the Project (For Development)
 
